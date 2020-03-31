@@ -142,15 +142,32 @@ For the method GL_1-R, five sets of estimated LiDAR vertices for each target hav
 <img src="https://github.com/UMich-BipedLab/extrinsic_lidar_camera_calibration/blob/master/figure/v7-2.png" width="640">
 
 ## Citations
-The detail is described in: 
-Jiunn-Kai Huang, Chenxi Feng, Madhav Achar, Maani Ghaffari, and Jessy W. Grizzle, "3D LiDAR Intrinsic Calibration and Automatic System for LiDAR to Camera Calibration" ([PDF](https://github.com/UMich-BipedLab/automatic_lidar_camera_calibration/blob/release_v1/AutomaticCalibration.pdf))(arXiv will appear soon))
-
-
+1. Jiunn-Kai Huang, Chenxi Feng, Madhav Achar, Maani Ghaffari, and Jessy W. Grizzle, "3D LiDAR Intrinsic Calibration and Automatic System for LiDAR to Camera Calibration" ([PDF](https://github.com/UMich-BipedLab/automatic_lidar_camera_calibration/blob/release_v1/AutomaticCalibration.pdf))(arXiv will appear soon))
 ```
 @article{huang2019improvements,
   title={Improvements to Target-Based 3D LiDAR to Camera Calibration},
   author={Huang, Jiunn-Kai and Grizzle, Jessy W},
   journal={arXiv preprint arXiv:1910.03126},
+  year={2019}
+}
+```
+2. Jiunn-Kai Huang and J. Grizzle, "Improvements to Target-Based 3D LiDAR to Camera Calibration" ([PDF](https://github.com/UMich-BipedLab/extrinsic_lidar_camera_calibration/blob/master/LiDAR2CameraCalibration.pdf))([arXiv](https://arxiv.org/abs/1910.03126))
+```
+@article{huang2019improvements,
+  title={Improvements to Target-Based 3D LiDAR to Camera Calibration},
+  author={Huang, Jiunn-Kai and Grizzle, Jessy W},
+  journal={arXiv preprint arXiv:1910.03126},
+  year={2019}
+}
+```
+3. Jiunn-Kai Huang, Maani Ghaffari, Ross Hartley, Lu Gan, Ryan M. Eustice,
+and Jessy W. Grizzle, "LiDARTag: A Real-Time Fiducial Tag using
+Point Clouds" ([PDF](https://github.com/UMich-BipedLab/LiDARTag/blob/release_v0/LiDARTag.pdf))([arXiv](https://arxiv.org/abs/1908.10349))
+```
+@article{huang2019lidartag,
+  title={LiDARTag: A Real-Time Fiducial Tag using Point Clouds},
+  author={Huang, Jiunn-Kai and Ghaffari, Maani and Hartley, Ross and Gan, Lu and Eustice, Ryan M and Grizzle, Jessy W},
+  journal={arXiv preprint arXiv:1908.10349},
   year={2019}
 }
 ```

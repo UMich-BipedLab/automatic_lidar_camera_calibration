@@ -85,11 +85,11 @@ For the back-end and the optimization process, please download from [here](https
 
 ## Running
 All the datasets have to be downloaded.
-1. The front-end
+1. The front-end  
 In the _sync_lidartag_apriltag_ package, the sync_cam_lidar launch file should be ran first, and then run the alignment_node_only launch file to run the tag pairing node. The _alignment_msgs_ will be published as output, and one can record them.
 
     
-2. The back-end
+2. The back-end  
 Onces all the data have been processed by the front-end node, i.e., saved as (possibly many) ROS bagfiles, please place them under a folder and change the [path.bag_file_path](https://github.com/UMich-BipedLab/automatic_lidar_camera_calibration/blob/e74382f4283576702a271fdbfe526b48c0c1acdb/automatic_calibration_main.m#L105) in [_automatic_calibration_main.m](https://github.com/UMich-BipedLab/automatic_lidar_camera_calibration/blob/release_v1/automatic_calibration_main.m)_ and run. 
 
 <!--

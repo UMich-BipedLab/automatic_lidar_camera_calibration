@@ -166,11 +166,13 @@ For the method GL_1-R, five sets of estimated LiDAR vertices for each target hav
 and Jessy W. Grizzle, "LiDARTag: A Real-Time Fiducial Tag using
 Point Clouds" ([PDF](https://github.com/UMich-BipedLab/LiDARTag/blob/release_v0/LiDARTag.pdf))([arXiv](https://arxiv.org/abs/1908.10349))
 ```
-@article{huang2019lidartag,
-  title={LiDARTag: A Real-Time Fiducial Tag using Point Clouds},
-  author={Huang, Jiunn-Kai and Ghaffari, Maani and Hartley, Ross and Gan, Lu and Eustice, Ryan M and Grizzle, Jessy W},
-  journal={arXiv preprint arXiv:1908.10349},
-  year={2019}
-}
+@article{huang2020improvements,
+  author={J. {Huang} and J. W. {Grizzle}},
+  journal={IEEE Access}, 
+  title={Improvements to Target-Based 3D LiDAR to Camera Calibration}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={134101-134110},}
 ```
 
